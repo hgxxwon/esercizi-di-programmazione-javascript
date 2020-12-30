@@ -6,8 +6,8 @@
   Restituisca in output entrambi i risultati.
 
   Esempio:
-    Input: anno corrente = 2018, anno di nascita = 1991
-    Ouput: età = 27, anni mancanti = 73
+    Input: anno corrente = 2020, anno di nascita = 1991
+    Ouput: età = 29, anni mancanti = 71
 
   http://www.imparareaprogrammare.it
 */
